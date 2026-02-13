@@ -29,7 +29,7 @@ Indicators Checked
 	•	Repeated DNS queries.
 	•	Long/random subdomains.
 	•	NXDOMAIN responses.
-	•	Large DNS response size.
+	•	Large DNS response size
 
 
 
