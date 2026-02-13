@@ -1,5 +1,3 @@
-
-
 DNS Query Analysis
 	•	Source IP: 172.20.10.2
 	•	Destination IP :172.20.10.1
